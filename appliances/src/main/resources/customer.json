@@ -1,0 +1,18 @@
+[
+  {
+    "customerName": "Kalles Grustransporter AB",
+    "customerAddress": "Cementvägen 8, 111 11 Södertälje",
+    "appliances": ["YS2R4401", "VLUR4588", "VLUR4066"]
+
+  },
+  {
+    "customerName": "Johans Bulk AB",
+    "customerAddress": "Balkvägen 12, 222 22 Stockholm",
+    "appliances": ["YS2R4011", "YS2R4949"]
+  },
+  {
+    "customerName": "Haralds Värdetransporter AB",
+    "customerAddress": "Budgetvägen 1, 333 33 Uppsala",
+    "appliances": ["YS2R4066", "YS2R4055"]
+  }
+]
